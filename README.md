@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate of web development.</h3>
+<h3 align="center">A programming lover</h3>
 
 - 🔭 I’m currently working on **Backpack.tf pricer**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
