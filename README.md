@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A programming lover</h3>
 
-- 🔭 I’m currently working on **Backpack.tf pricer**
+- 🔭 I’m currently working on a **Purchase list app**
 
 <p align="left">
 </p>
